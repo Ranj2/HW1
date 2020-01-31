@@ -26,7 +26,7 @@ public class Homework1 {
         int result = num1 + num2;
 
         JOptionPane.showMessageDialog(null,"Welcome "+name+" The sum is "+result,"The Sum Of Two Numbers",JOptionPane.PLAIN_MESSAGE);
-        throw new Exception();
+        
 
     }
 }
